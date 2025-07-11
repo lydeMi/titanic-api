@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction API
+#  Titanic Survival Prediction API
 
 Une API FastAPI simple qui prédit la survie des passagers du Titanic à partir de leurs caractéristiques.
 
@@ -8,7 +8,7 @@ Utiliser un modèle de machine learning (Random Forest) pour prédire si un pass
 
 ---
 
-## ⚙️ Technologies utilisées
+## Technologies utilisées
 
 - Python 3.8+
 - FastAPI
@@ -19,7 +19,7 @@ Utiliser un modèle de machine learning (Random Forest) pour prédire si un pass
 
 ---
 
-## 🚀 Lancer l'API en local
+## Lancer l'API en local
 
 ### 1. Cloner le projet
 
@@ -27,5 +27,9 @@ Utiliser un modèle de machine learning (Random Forest) pour prédire si un pass
 git clone https://github.com/lydeMi/titanic-api.git
 cd titanic-api
 
+## API en ligne
+
+L’API est déployée sur Render à l’adresse suivante :
+https://titanic-api-nbho.onrender.com/predict
 
 
