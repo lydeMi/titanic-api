@@ -2,7 +2,7 @@
 
 Une API FastAPI simple qui prédit la survie des passagers du Titanic à partir de leurs caractéristiques.
 
-## 🔍 Objectif
+## Objectif
 
 Utiliser un modèle de machine learning (Random Forest) pour prédire si un passager aurait survécu, en exposant le modèle via une API REST.
 
@@ -26,6 +26,8 @@ Utiliser un modèle de machine learning (Random Forest) pour prédire si un pass
 ```bash
 git clone https://github.com/lydeMi/titanic-api.git
 cd titanic-api
+
+---
 
 ## API en ligne
 
