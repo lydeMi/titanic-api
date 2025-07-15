@@ -21,7 +21,7 @@ app = FastAPI(title="Titanic Survival API")
 
 @app.get("/")
 def welcome():
-    return {"message": "Bienvenue sur l'API Titanic 🛳️"}
+    return {"message": "Bienvenue sur l'API Titanic"}
 
 @app.post("/predict")
 def predict_survival(data: Passenger):
